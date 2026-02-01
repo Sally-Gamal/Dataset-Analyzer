@@ -93,6 +93,7 @@ You are free to use, modify, and distribute this project for educational and per
 ## 🌟 Acknowledgments
 
 - Built with ❤️ by **Sally Gamal** ([LinkedIn](https://www.linkedin.com/in/sally-gamal))  
-- Thanks to the **Bash** and **open-source community** for inspiration and support  
-- Special thanks to all **contributors** and **script testers**
+- Thanks to the **open-source community** for inspiration, especially contributors to Python libraries like **pandas** and **numpy**  
+- Special thanks to all **script testers** who helped ensure the automatic data analysis runs smoothly
+
 
