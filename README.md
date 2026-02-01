@@ -1,4 +1,4 @@
-# DatasetAnalyzer 🩺
+# DatasetAnalyzer 
 
 **DatasetAnalyzer** is a simple and powerful Python tool for **automatic data analysis** and **basic cleaning** of CSV datasets.  
 It is designed to be **easy to use**, requires **no user input**, and is perfect for students, analysts, or beginners in data science.
