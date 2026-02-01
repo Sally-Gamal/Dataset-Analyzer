@@ -60,19 +60,14 @@ Data columns (total 12 columns):
 ✅ Data analysis & cleaning completed
 💾 Clean file saved as: your_file_cleaned.csv
 
-🔹 Requirements
 
-Python 3.x
-
-Libraries:
-pip install pandas
-pip install numpy
-
-🔹 Notes
-
-The script does not automatically fill missing numeric values — handle them manually if needed.
-
-Make sure your CSV file is in the same folder as the script.
-
-Lightweight and beginner-friendly.
+## 🔹 Requirements
+     - Python 3.x
+     - Libraries:
+         . pip install pandas
+         . pip install numpy
+## 🔹 Notes
+       -The script does not automatically fill missing numeric values — handle them manually if needed.
+       -Make sure your CSV file is in the same folder as the script.
+       -Lightweight and beginner-friendly.
 
