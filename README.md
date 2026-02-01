@@ -74,4 +74,25 @@ Data columns (total 12 columns):
 * 📂 **File Location:** Ensure your **CSV file** is in the **same folder** as the script.
 * 🚀 **Beginner-Friendly:** Designed to be **lightweight** and very easy to use.
 
+  ---
+
+## 🔷 Notes
+
+* ⚠️ **Manual Handling:** The script **does not automatically fill** missing numeric values—please handle them manually.
+* 📂 **File Location:** Ensure your **CSV file** is in the **same folder** as the script.
+* 🚀 **Beginner-Friendly:** Designed to be **lightweight** and very easy to use.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project for educational and personal purposes, as long as proper credit is given.
+
+## 🌟 Acknowledgments
+
+- Built with ❤️ by **Sally Gamal** ([LinkedIn](https://www.linkedin.com/in/sally-gamal))  
+- Thanks to the **Bash** and **open-source community** for inspiration and support  
+- Special thanks to all **contributors** and **script testers**
 
