@@ -18,7 +18,7 @@ It is designed to be **easy to use**, requires **no user input**, and is perfect
 
 ---
 
-## 🔹 How to Use
+# 🔹 How to Use
 
 1. Put your CSV file in the same folder as `DatasetAnalyzer.py`  
 2. Make sure the filename in the code matches your CSV file:
@@ -58,19 +58,20 @@ Data columns (total 12 columns):
 
 🧹 Cleaning data...
 ✅ Data analysis & cleaning completed
-💾 Clean file saved as: your_file_cleaned.csv
+💾 Clean file saved as: your_file_cleaned.csv.
+```
 
+## 🔷 Requirements
 
-## 🔷 **Requirements**
 * 🐍 **Python 3.x**
 * 📚 **Libraries:**
     * `pip install pandas`
     * `pip install numpy`
 
----
+## 🔷 Notes
 
-## 🔷 **Notes**
 * ⚠️ **Manual Handling:** The script **does not automatically fill** missing numeric values—please handle them manually.
 * 📂 **File Location:** Ensure your **CSV file** is in the **same folder** as the script.
 * 🚀 **Beginner-Friendly:** Designed to be **lightweight** and very easy to use.
+
 
