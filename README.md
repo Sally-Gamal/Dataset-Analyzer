@@ -74,14 +74,6 @@ Data columns (total 12 columns):
 * 📂 **File Location:** Ensure your **CSV file** is in the **same folder** as the script.
 * 🚀 **Beginner-Friendly:** Designed to be **lightweight** and very easy to use.
 
-  ---
-
-## 🔷 Notes
-
-* ⚠️ **Manual Handling:** The script **does not automatically fill** missing numeric values—please handle them manually.
-* 📂 **File Location:** Ensure your **CSV file** is in the **same folder** as the script.
-* 🚀 **Beginner-Friendly:** Designed to be **lightweight** and very easy to use.
-
 ---
 
 ## 📜 License
